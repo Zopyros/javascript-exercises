@@ -16,10 +16,6 @@ const leapYears = function(leapYear) {
         return false;
     }
 
-
-
-
-
 };
 
 
