@@ -1,4 +1,4 @@
-//Fahrenheit to Celsius
+//Fahrenheit to Celsius calculation
 
 const ftoc = function(fahrenheit) {
 
@@ -6,7 +6,7 @@ const ftoc = function(fahrenheit) {
   return Number(cel.toFixed(1))
 };
 
-// Celsius to Fahrenheit
+// Celsius to Fahrenheit calculation
 
 const ctof = function(celsius) {
 
