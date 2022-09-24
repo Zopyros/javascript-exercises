@@ -1,8 +1,12 @@
+//Fahrenheit to Celsius
+
 const ftoc = function(fahrenheit) {
 
   let cel = (fahrenheit - 32) * (5/9)
   return Number(cel.toFixed(1))
 };
+
+// Celsius to Fahrenheit
 
 const ctof = function(celsius) {
 
